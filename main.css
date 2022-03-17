@@ -146,5 +146,6 @@ main {
   .container-2 {
     width: 21.9375rem; /*351px*/
     align-items: center;
+    gap: 27px;
   }
 }

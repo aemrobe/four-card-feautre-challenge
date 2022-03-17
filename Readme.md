@@ -94,6 +94,7 @@ css
   .container-2 {
     width: 351px;
     align-items: center;
+    gap: 27px;
   }
 
 }

@@ -28,6 +28,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 file-path for screenshot of my solution to the mobile view: my solution screenshot/fout-card feautre challenge desktop-view.PNG
+
 file-path for screenshot of my solution to the Desktop view: my solution screenshot/fout-card feautre challenge mobile-view.PNG
 
 ### Links

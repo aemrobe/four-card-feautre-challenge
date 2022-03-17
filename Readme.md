@@ -33,7 +33,7 @@ file-path for screenshot of my solution to the Desktop view: my solution screens
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://aemrobe.github.io/four-card-feautre-challenge/)
 
 ## My process
 

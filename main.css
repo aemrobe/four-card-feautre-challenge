@@ -29,12 +29,15 @@ main {
   color: var(--Very-Dark-Blue);
   font-size: 1.4rem;
   margin-bottom: 0.6875rem; /*11px*/
+  text-align: center;
 }
 
 .main-title {
   font-weight: 600;
   font-size: 1.4rem;
   margin-bottom: 1.5rem; /*24px*/
+  display: block;
+  
 }
 
 .hero-text {

@@ -42,7 +42,7 @@ the problem which occured to me when I do this challenge was to make the four-ca
 
 ```
 HTML
-<section class="skills">
+<div class="skills">
     <article class="skill supervisor">
       <h1 class="work-title">Supervisor</h1>
 
@@ -80,7 +80,7 @@ HTML
 
       <img src="./images/icon-calculator.svg" alt="a desktop" class="icon">
     </article>
-</section>
+</div>
 ```
 
 ```
